@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AnilParmarCode\Cashfree\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CashfreeCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-cashfree';
 
     public $description = 'My command';
 
